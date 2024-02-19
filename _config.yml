@@ -1,1 +1,2 @@
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
+remote_theme: daattali/beautiful-jekyll@6.0.1
